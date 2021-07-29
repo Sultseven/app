@@ -10,7 +10,7 @@ class Products {
 					<hr/>
 					<span class="products-element__price" >Цена: ⚡️${price.toLocaleString()} рублей</span>
 					<hr/>
-					<button class="products-element__btn">Добавить в корзину</button>
+					<button class="products-element__btn">Добавить в ❤️</button>
 				</li>
 			`;
 		})

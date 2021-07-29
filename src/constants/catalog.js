@@ -1,8 +1,8 @@
 const CATALOG = [
     {
         "id": "el1",
-        "name": "FENDER SQUIER BULLET STRAT HT HSS BLK",
-        "img": "https://i.ibb.co/QJfqs4K/1.jpg",
+        "name": "Alisa Askarova",
+        "img": "./img/loveme.png",
         "price": 13600
     },
     {
